@@ -1,6 +1,6 @@
 OBJECTS = main.o
 TARGET = hello
-
+ssssssssss
 all: $(TARGET)
 
 $(TARGET): $(OBJECTS)
