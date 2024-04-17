@@ -2,7 +2,7 @@ OBJECTS = main.o
 TARGET = hello
 
 all: $(TARGET)
-
+ssssss
 $(TARGET): $(OBJECTS)
 	$(CC) -o $@ $^
 
